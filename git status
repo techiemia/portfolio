@@ -1,0 +1,29 @@
+[33mcommit 1c026b8dd4f4f0db6307cbe2dac6f64d28313d0d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mia <137926885+techiemia@users.noreply.github.com>
+Date:   Fri Aug 4 23:36:39 2023 -0500
+
+    Updated style sheet for font in portfolio
+
+[33mcommit db8dbc935ecf8465c75eddd18bfb7dce6fce7122[m
+Author: Mia <137926885+techiemia@users.noreply.github.com>
+Date:   Fri Aug 4 23:26:30 2023 -0500
+
+    Created navigation bar
+
+[33mcommit 3c9afb1cee241cbfe702a6484c97eef65d89ea87[m
+Author: Mia <137926885+techiemia@users.noreply.github.com>
+Date:   Fri Aug 4 18:05:19 2023 -0500
+
+    added portfolio.png
+
+[33mcommit c0cf09bb914d283005329de985150da75f93f263[m
+Author: Mia <137926885+techiemia@users.noreply.github.com>
+Date:   Tue Jul 25 19:10:09 2023 -0500
+
+    Created the index.html file
+
+[33mcommit 6687c304ae2bb1cc9ba43ef3a317457062096495[m
+Author: Mia <137926885+techiemia@users.noreply.github.com>
+Date:   Mon Jul 24 13:07:41 2023 -0500
+
+    Initial commit
