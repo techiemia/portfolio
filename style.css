@@ -85,4 +85,7 @@ PROJECT
 #project .card-title{
     font-weight: bold;
 }
+.mb-2 {
+    margin-bottom: 0px !important;
+}
 
